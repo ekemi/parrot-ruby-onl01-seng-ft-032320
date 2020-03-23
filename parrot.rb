@@ -3,6 +3,14 @@
 
 def parrot
 
-return  puts "Squawk!"
+ puts "Squawk!"
+
+end
+
+def Squawk!
+
+
+  return"Squawk!"
+
 
 end
